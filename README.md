@@ -3,7 +3,7 @@
 
 
 ## About ME
-- 🔭 I am a Open Source Enthuiast and junior pursuing my Bachelors in Commounication and Computer-Engineering
+- 🔭 I am a Open Source Enthuiast and junior pursuing My Bachelors in Commounication and Computer-Engineering
 - 🌱 I am Passionate about software devolpment..
 - 👯 I am having a Deep-Intreast in Web Devolpement and Machine-Leaning and Problem-solving
 - 🤔 I’m looking for help with my Knowledge to enpowering the commounites
