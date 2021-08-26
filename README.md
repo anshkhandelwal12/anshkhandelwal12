@@ -35,5 +35,5 @@ Blockchain and Finance and there are about open clusters and fluents dsla .
 Technical-Assistant Consultant · Co-mentor with Coding-blocks and for
 java and python and Data structure and Machine learning. Tutorial students
 and Implements the problemsGroup. Partnered with minors to plan and
-implement lessons in following institutions
+implement lessons in following institutions.
 
