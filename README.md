@@ -4,9 +4,9 @@
 
 ## About ME
 - 🔭 I am a Open Source Enthuiast and junior pursuing my Bachelors in Commounication and Computer-Engineering
-- 🌱 I am Passionate about Web-Devolpment and Machine-Learning and Blockchain and new Things
-- 👯 I’m looking to collaborate on in Community
-- 🤔 I’m looking for help wit
+- 🌱 I am Passionate about software devolpment..
+- 👯 I am having a Deep-Intreast in Web Devolpement and Machine-Leaning and Problem-solving
+- 🤔 I’m looking for help with my Knowledge to enpowering the commounites
 - 💬 Email: anshkhandelwal132001@gmail.com
 -->
 
