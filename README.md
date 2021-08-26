@@ -5,12 +5,9 @@
 ## About ME
 - 🔭 I am a Open Source Enthuiast and junior pursuing my Bachelors in Commounication and Computer-Engineering
 - 🌱 I am Passionate about Web-Devolpment and Machine-Learning and Blockchain and new Things
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on In community
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Email: anshkhandelwal132001@gmail.com
 -->
 
 ## My Experiences
@@ -37,3 +34,15 @@ java and python and Data structure and Machine learning. Tutorial students
 and Implements the problemsGroup. Partnered with minors to plan and
 implement lessons in following institutions.
 
+## Volunteer
+Neo - Campus Ambassador (January 2020 - present):· In This
+mentorship program in Tech students are introduced as an Neo
+ambassador to the college and Become co-mentorship with these
+programs. and Currently organising events and give technical built
+the most passionate students about these thing
+
+Workshop-Instructor :( Code-Chef) : Instructor at workshops
+conducted by ’CodeChef for Schools’ for Competitive Programming.
+’CodeChef for Schools’ is an initiative by CodeChef which aims to make it
+easier for students to start coding at a young age by introducing them to
+Competitive Programming.
