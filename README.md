@@ -55,6 +55,8 @@ conducted by ’CodeChef for Schools’ for Competitive Programming.
 ’CodeChef for Schools’ is an initiative by CodeChef which aims to make it
 easier for students to start coding at a young age by introducing them to
 Competitive Programming.
-
+![Ansh khandelwal's github stats](https://github-readme-stats.vercel.app/api?username=anshkhandelwal12&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
 
 
