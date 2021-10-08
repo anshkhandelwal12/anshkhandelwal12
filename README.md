@@ -25,9 +25,8 @@ How we talk to the server.. Built and learn bux fixing and numbers and
 system design and learning.
 
 ## Contrast Web studio : · 
-In This Internshp we In work on Making a in this 
-I created a form and navingation bar and Menu Tabs
-and sliders and created new things using Install various Modules
+In These Intership works as a front end Devolper and and creating Users land page and use vanilla Javascipt to create more
+creativty and use Taliwand Css
 
 
 ## Blue learn-Events-Coach -
