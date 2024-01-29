@@ -1,10 +1,4 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ansh!](https://ansh-tech.netlify.app/) 
-  <a href="https://www.linkedin.com/in/ansh-khandelwal-2bb358191/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-  <a href="Mail-to: anshkhandelwal132001@gmail.com">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />
-</a>
 </br>
   
 
