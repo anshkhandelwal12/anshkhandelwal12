@@ -33,3 +33,5 @@
 - **Database:** MySQL, Oracle
 - **Fundamentals:** Communication Skills, Networking, Sales Acumen, MS Office, Analytical Skills, Time Management
 - **Technical Skills:** Web Development, Linux Tools, Linux Internals, Shell Script, Yocto, Git
+
+![anshkhandelwal12's Stats](https://github-readme-stats.vercel.app/api?username=anshkhandelwal12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
