@@ -1,10 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ansh!](https://ansh-tech.netlify.app/) 
 </br>
   
-
-
-# Ansh Khandelwal
-
 ## 👨‍💻 About Me
 - Passionate about **web development** and adept at creating responsive and visually appealing websites.
 - Skilled in **embedded systems development** with a knack for problem-solving and quick learning.
